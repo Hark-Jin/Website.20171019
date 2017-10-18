@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Holy cow!\"\n---\n\n### I have a webpage!\n\nAnd I can put all kinds of stuff on it!\n\n### Let's have a link\n\nMy favorite website is \n[Baidu](http://www.baidu.com)\n\nI like the [about page](about.html)\n\n### Here's a cow:\n\n<img src=\"images/image.png\" style=\"width:75%\">\n\n\n\n\n",
+    "contents" : "---\ntitle: \"Holy cow!\"\n---\n\n### I have a webpage!\n\nAnd I can put all kinds of stuff on it!\n\n### Let's have a link\n\nMy favorite website is \n[Baidu](http://www.baidu.com)\n\nI like the [about page](about.html)\n\n### Here's a cow:\n\n<img src=\"images/image.png\" style=\"width:75%\">\n\nThis cow is in Genmary.\n\n\n",
     "created" : 1508347242930.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3270762538",
+    "hash" : "3675154228",
     "id" : "1BFFBC91",
-    "lastKnownWriteTime" : 1508348279,
-    "last_content_update" : 1508348279576,
+    "lastKnownWriteTime" : 1508348510,
+    "last_content_update" : 1508348510247,
     "path" : "~/Semester 1/DS-1/20171018/Website_Template/index.Rmd",
     "project_path" : "Website_Template/index.Rmd",
     "properties" : {
