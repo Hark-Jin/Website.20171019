@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Yay internet!\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<hj2479@columbia.edu>\n    - icon: fa-github fa-lg\n      href: http://github.com/<YOUR_GH_NAME>/\noutput:\n  html_document",
+    "created" : 1508347374160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3680160543",
+    "id" : "49661ACA",
+    "lastKnownWriteTime" : 1508347695,
+    "last_content_update" : 1508347695877,
+    "path" : "~/Semester 1/DS-1/20171018/Website_Template/_site.yml",
+    "project_path" : "Website_Template/_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
